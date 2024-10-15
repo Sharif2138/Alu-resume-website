@@ -1,11 +1,12 @@
-/* General Styling */
+/*General Styling */
 body {
     font-family: Arial, sans-serif;
-    line-height: 1.6;
+    line-height: 2.5;
     color: #333;
     margin: 0;
     padding: 0;
     background-color:#333;
+    font-size: 1.25rem;
 }
 
 /* Navigation */
@@ -33,88 +34,88 @@ header nav ul li a {
 }
 
 header nav ul li a:hover {
-    color: #f39c12;
+    color: #cc8e2b;
 }
 
 /* Main Content Styling */
 main #about {
-    max-width: 1000px;
+    max-width: 1400px;
     margin: 2rem auto;
     padding: 1rem;
-    background: #142048;
-    border-radius: 8px;
+    background: #131513;
+    border-radius: 20px;
     color: white;
 }
 
 main #education {
-    max-width: 1000px;
+    max-width: 1400px;
     margin: 2rem auto;
     padding: 1rem;
-    background: #142048;
-    border-radius: 8px;
+    background: #131513;
+    border-radius: 20px;
     color: white;
 }
 
 main #leadership {
-    max-width: 1000px;
+    max-width: 1400px;
     margin: 2rem auto;
     padding: 1rem;
-    background: #142048;
-    border-radius: 8px;
+    background: #131513;
+    border-radius: 20px;
     color: white;
 }
 
 main #work {
-    max-width: 1000px;
+    max-width: 1400px;
     margin: 2rem auto;
     padding: 1rem;
-    background: #142048;
-    border-radius: 8px;
+    background: #131513;
+    border-radius: 20px;
     color: white;
 }
 
 main #projects {
-    max-width: 1000px;
+    max-width: 1400px;
     margin: 2rem auto;
     padding: 1rem;
-    background: #142048;
-    border-radius: 8px;
+    background: #131513;
+    border-radius: 20px;
     color: white;
 }
 
 main #skills {
-    max-width: 1000px;
+    max-width: 1400px;
     margin: 2rem auto;
     padding: 1rem;
-    background: #142048;
-    border-radius: 8px;
+    background: #131513;
+    border-radius: 20px;
     color: white;
 }
 
 main #languages {
-    max-width: 1000px;
+    max-width: 1400px;
     margin: 2rem auto;
     padding: 1rem;
-    background: #142048;
-    border-radius: 8px;
+    background: #131513;
+    border-radius: 20px;
     color: white;
 }
 
 main #hobbies {
-    max-width: 1000px;
+    max-width: 1400px;
     margin: 2rem auto;
     padding: 1rem;
-    background: #142048;
-    border-radius: 8px;
+    background: #131513;
+    border-radius: 20px;
     color: white;
 }
 
 main #contact {
-    max-width: 1000px;
+    max-width: 1400px;
     margin: 2rem auto;
     padding: 1rem;
-    background: #142048;
-    border-radius: 8px;
+    background: #131513;
+    border-radius: 20px;
     color: white;
 }
 
@@ -179,3 +180,4 @@ footer {
         padding: 1rem;
     }
 }
+
