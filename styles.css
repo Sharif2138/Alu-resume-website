@@ -4,6 +4,7 @@ body {
     margin: 0;
     padding: 0;
     line-height: 1.6;
+    font-size: 1.25rem;
 }
 
 .container {
@@ -56,8 +57,8 @@ nav ul li a {
 
 /* Section styles */
 main {
-    padding: 20px;
-    background: #f4f4f4;
+    padding: 60px;
+    background: #e7d8d8;
 }
 
 section {
@@ -88,4 +89,9 @@ footer {
     nav ul.active {
         display: flex;
     }
+
+    body {
+        font-size: 0.9rem;
+    }
 }
+
