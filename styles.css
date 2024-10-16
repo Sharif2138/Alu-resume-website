@@ -123,6 +123,12 @@ nav ul li a:hover {
     color: #fff;
 }
 
+@media (min-width: 768px) {
+    .fa-bars {
+        display: none;
+    }
+}
+
 /* Hamburger Icon for Mobile */
 .fa-bars {
     display: none;
